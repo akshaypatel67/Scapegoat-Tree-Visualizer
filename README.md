@@ -3,6 +3,8 @@
 
 The Scapegoat Tree Visualizer is a web-based project that allows you to visualize the Scapegoat Tree data structure. It supports common operations such as insert, delete, and find, and visualizes the tree structure using the Sigma.js library, and displays the tree structure along with the conditions and steps involved in each operation.. The project is built using HTML, Tailwind CSS, and JavaScript, with no backend requirements.
 
+https://github.com/akshaypatel67/Scapegoat-Tree-Visualizer/assets/64775379/172068c3-8d5c-4886-ac4e-d3109f2c8c9c
+
 
 ## Technologies Used
 
